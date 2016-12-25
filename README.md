@@ -1,13 +1,13 @@
 # Cloud Computing 
 <br>
 Overview:<br>
-1.Cloud Definition
-2.Its characterestics
-3.Deployment Models
-4.Type of Clouds (IaaS,PaaS,SaaS)
-5.TCO / ROI
-6.Cloud Migration Plan
-7.Design Patterns in Cloud Computing
+1.Cloud Definition<br>
+2.Its characterestics<br>
+3.Deployment Models<br>
+4.Type of Clouds (IaaS,PaaS,SaaS)<br>
+5.TCO / ROI<br>
+6.Cloud Migration Plan<br>
+7.Design Patterns in Cloud Computing<br>
 
 25 December 2016
 
