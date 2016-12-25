@@ -6,8 +6,8 @@ Design Patterns in Cloud Computing
 
 Presented at University of Guilan , Computer Engineering Faculty (http://ce.guilan.ac.ir) By Gang of three:
 
-1.Javad PourMostafa
-2.Kami DarvishNezhad
+1.Javad PourMostafa<br>
+2.Kami DarvishNezhad<br>
 3.Ali Tourani
 
-Under Dr.MirRoshandel SuperVisory
+Under Dr.MirRoshandel Supervisory
