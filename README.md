@@ -18,4 +18,8 @@ Presented at University of Guilan , Computer Engineering Faculty (http://ce.guil
 
 Under Dr.MirRoshandel Supervisory (http://pageperso.lif.univ-mrs.fr/~ghasem.mirroshandel)
 <br>
+NB : If You want to use this presentation as your further research , do not forget citation 
+<br>
+DOI : 10.13140/RG.2.2.24112.76805
+<br>
 25 December 2016
