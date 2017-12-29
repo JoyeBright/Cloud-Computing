@@ -16,7 +16,7 @@ Presented at University of Guilan , Computer Engineering Faculty (http://ce.guil
 2.Kambiz DarvishNezhad<br>
 3.Ali Tourani
 
-Under Dr.MirRoshandel Supervisory (http://pageperso.lif.univ-mrs.fr/~ghasem.mirroshandel)
+Under Dr.MirRoshandel Supervision (http://pageperso.lif.univ-mrs.fr/~ghasem.mirroshandel)
 <br>
 NB : If You want to use this presentation as your further research , do not forget citation 
 <br>
