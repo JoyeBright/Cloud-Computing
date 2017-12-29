@@ -12,7 +12,7 @@ Overview:<br><br>
 
 Presented at University of Guilan , Computer Engineering Faculty (http://ce.guilan.ac.ir) By Gang of three:
 
-1.Javad PourMostafa Roshan<br>
+1.Javad PourMostafa Roshan Sharami<br>
 2.Kambiz DarvishNezhad<br>
 3.Ali Tourani
 
